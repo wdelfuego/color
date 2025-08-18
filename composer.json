@@ -1,5 +1,5 @@
 {
-    "name": "wdelfuego/spatie-color",
+    "name": "spatie/color",
     "description": "A little library to handle color conversions",
     "keywords": [
         "spatie",
@@ -14,12 +14,6 @@
             "name": "Sebastian De Deyne",
             "email": "sebastian@spatie.be",
             "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
-        {
-            "name": "Willem Vervuurt",
-            "email": "willem@studiodelfuego.com",
-            "homepage": "https://www.studiodelfuego.com",
             "role": "Developer"
         }
     ],
